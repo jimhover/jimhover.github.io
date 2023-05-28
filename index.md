@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# hello life, Hello Jie
+# hello life
 
 start write the story of life
