@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# hello life, Hello Jie
+
+start write the story of life
